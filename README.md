@@ -6,7 +6,7 @@ Pirmais Unity 2D projekts, UI elementi
 - [x] Ievietot attelus
 - [x] Ievietot ček boksus
 - [x] Nodrosināt radio pogas darbību
-- [ ]  Izveidodt izkritušas saraksta pogu
-- [ ]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
-- [ ]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
-- [ ]  Pievienot audio failus
+- [x]  Izveidodt izkritušas saraksta pogu
+- [x]  Nodrošināt attēla izmēra maiņu ar bīdjoslu 
+- [x]  Nodrošināt attēlas pārvietošanu ar peles palīdzību
+- [x]  Pievienot audio failus
